@@ -4,7 +4,7 @@ ML-Pneumonia-Detector
 
 Introduction:
 
-A Deep Learning powered system that helps in the prediction of Pneumonia with an accuracy of 90.529% test accuracy only. The system compares X-Ray images of human lungs to help predict the disease with the application of Swagger API.
+A Deep Learning powered system that helps in the prediction of Pneumonia with an accuracy of 90.529% test accuracy only. The system compares X-Ray images of human lungs to help predict the disease.
 
 Why?
 
